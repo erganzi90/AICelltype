@@ -61,4 +61,5 @@ usage3:
 output3:
     ['Prostate glandular cells (or Prostate epithelial cells)', 'Lymphatic endothelial cells', 'T-cells (or T-lymphocytes)', 'Unknown cell type (or Possibly cancer-associated cells or Stromal cells; needs further investigation)']  # This model give more explaination.
 ```
-
+# FAQ
+See https://github.com/renzhonggan/AICelltype/issues
