@@ -1,4 +1,5 @@
 # AICelltype
+A python package same to R package [GPTCelltype](https://github.com/Winnie09/GPTCelltype). Annotate cell type in scRNAseq study through gpt-4 but have no more need of openai key. More time spend with gpt4 model(about 30s) because of agency, try time saving method (about 10s) with qwen or ERNIE model. Patient please, remember LLM need time to cook your answer.
 # Installation
 You can use pip install package directly.
 ```
