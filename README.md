@@ -57,7 +57,7 @@ usage3:
     os.environ['SECRET_KEY'] = 'your SECRET_KEY'  # Add SECRET_KEY to environ, keep secret to yourself.
     
     from AICelltype import aicelltype
-    cell_lt = aicelltype(tissue_name, gene_lt, model='qwen-max')
+    cell_lt = aicelltype(tissue_name, gene_lt, model='ERNIE-4.0')
     print(cell_lt)
 output3:
     ['Prostate glandular cells (or Prostate epithelial cells)', 'Lymphatic endothelial cells', 'T-cells (or T-lymphocytes)', 'Unknown cell type (or Possibly cancer-associated cells or Stromal cells; needs further investigation)']  # This model give more explaination.
